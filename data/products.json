@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "name": "Chaqueta Beisbolera Roja",
+    "gender": "Mujer",
+    "category": "Chaqueta",
+    "reference": 2334,
+    "image": "/products/Chaqueta2.jpg",
+    "price": 60000
+  },
+  {
+    "id": 2,
+    "name": "Chaqueta Beisbolera Verde",
+    "gender": "Mujer",
+    "category": "Chaqueta",
+    "reference": 2325,
+    "image": "/products/Chaqueta3.jpg",
+    "price": 70000
+  },
+  {
+    "id": 3,
+    "name": "Chaqueta Beisbolera",
+    "gender": "Mujer",
+    "category": "Chaqueta",
+    "reference": 2305,
+    "image": "/products/Chaqueta4.jpg",
+    "price": 70000
+  },{
+    "id": 4,
+    "name": "Chaqueta Beisbolera",
+    "gender": "Mujer",
+    "category": "Chaqueta",
+    "reference": 23015,
+    "image": "/products/Chaqueta5.jpg",
+    "price": 70000
+  },{
+    "id": 5,
+    "name": "Chaqueta Beisbolera",
+    "gender": "Mujer",
+    "category": "Chaqueta",
+    "reference": 23092,
+    "image": "/products/Chaqueta6.jpg",
+    "price": 70000
+  },{
+    "id": 6,
+    "name": "Chaqueta Beisbolera",
+    "gender": "Mujer",
+    "category": "Chaqueta",
+    "reference": 23343,
+    "image": "/products/Chaqueta7.jpg",
+    "price": 70000
+  },{
+    "id": 7,
+    "name": "Chaqueta Beisbolera",
+    "gender": "Mujer",
+    "category": "Chaqueta",
+    "reference": 23052,
+    "image": "/products/Chaqueta8.jpg",
+    "price": 70000
+  },{
+    "id": 8,
+    "name": "Chaqueta Beisbolera",
+    "gender": "Mujer",
+    "category": "Chaqueta",
+    "reference": 2220287,
+    "image": "/products/Chaqueta9.jpg",
+    "price": 65000
+  }
+]
